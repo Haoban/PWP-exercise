@@ -1,0 +1,15 @@
+{
+    "@namespaces": {
+        "mumeta": {
+            "name": "http://wherever.this.server.is/musicmeta/link-relations#"
+        }
+    },
+    "@controls": {
+        "mumeta:albums-all": {
+            "href": "/api/albums/"
+        },
+        "mumeta:artists-all": {
+            "href": "/api/artists/"
+        }
+    }
+}
